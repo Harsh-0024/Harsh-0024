@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Harsh-0024
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in entrepreneurship
 - 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: https://www.instagram.com/harsh__0024_/
 
 <!---
